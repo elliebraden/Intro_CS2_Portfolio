@@ -1,3 +1,7 @@
+Grade received: 145/150 rubric feedback "-5: issue with one square orthogonally and orthogonal pieces can also move one square diagonally feature"
+
+#-----------------All information below this point was the provided prompt and instructions---------------------#
+
 # portfolio-project
 
 Write a class named **AnimalGame** for playing an animal-themed abstract board game, described below.
